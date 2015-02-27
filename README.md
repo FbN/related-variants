@@ -1,4 +1,4 @@
-[img]http://related-variants.demo.artefice.co/image/oc/intro-1.png[/img]
+<img src="http://related-variants.demo.artefice.co/image/oc/intro-1.png"/>
 [url=http://related-variants.demo.artefice.co][img]http://related-variants.demo.artefice.co/image/oc/demo-button.png[/img][/url] [url=mailto:ftaioli@gmail.com][img]http://related-variants.demo.artefice.co/image/oc/support-button.png[/img][/url]
 [b]What is RelatedVariants?[/b]
 
