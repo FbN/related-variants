@@ -1,7 +1,10 @@
 <img src="http://related-variants.demo.artefice.co/image/oc/intro-1.png"/>
 <a href="http://related-variants.demo.artefice.co"><img src="http://related-variants.demo.artefice.co/image/oc/demo-button.png" /></a>
 <a href="mailto:ftaioli@gmail.com"/><img src="http://related-variants.demo.artefice.co/image/oc/support-button.png" /></a>
-[b]What is RelatedVariants?[/b]
+
+<h1>What is RelatedVariants?</h1>
+
+Get it on <a href="http://www.opencart.com/index.php?route=extension/extension/info&token=53988308fbef4f4b3d08cc4ae20f667d&extension_id=21060">Opencart Extension store</a>
 
 Having a product available in different variants is a very common situation in a ecommerce.
 
